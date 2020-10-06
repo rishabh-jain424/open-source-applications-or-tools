@@ -1,5 +1,5 @@
 # Open-Source: Applications or Tools
-> ## “In real open source , you have the right to control your own destiny. — Linus Torvalds”
+> ### “In real open source , you have the right to control your own destiny. — Linus Torvalds”
 
 A curated list of awesome resources to help you build the next application.
 
@@ -8,8 +8,8 @@ A curated list of awesome resources to help you build the next application.
 
 | Name | Description | Link |
 |---|---|---|
-| Eclipse | Eclipse offers IDEs for Java, Java EE, C/C++ and PHP. | [Go!](https://www.eclipse.org/) "Eclipse"|
-| NetBeans | Useful for creating desktop, mobile or Web apps, NetBeans supports Java, HTML5, PHP, C/C++ and several other programming languages. | [Go!](http://netbeans.org/) "NetBeans"|
+| Eclipse | Eclipse offers IDEs for Java, Java EE, C/C++ and PHP. | [Go!](https://www.eclipse.org/) 'Eclipse'|
+| NetBeans | Useful for creating desktop, mobile or Web apps, NetBeans supports Java, HTML5, PHP, C/C++ and several other programming languages. | [Go!](http://netbeans.org/) 'NetBeans'|
 | Visual Studio Code | Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. | [Go!](https://code.visualstudio.com/) |
 
 ### JavaScript Frameworks and Libraries

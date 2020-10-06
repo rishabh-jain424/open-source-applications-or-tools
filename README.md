@@ -25,11 +25,6 @@
 | CodePen | CodePen  can let you navigate different files and create different pages within a single file, which is a benefit for many web developers. | [Go!](https://codepen.io/) |
 | Brackets | It’s easy to have a complete preview of the editor, which assists in making the Web app development process smarter. | For more help: [Go!](http://brackets.io/) |
 
-### Data Science
-
-| Name | Description | Link |
-|---|---|---|
-
 ### AI/ML Tools
 
 | Name | Description | Link |
@@ -53,6 +48,11 @@
 | Name | Description | Link |
 |---|---|---|
 | Google Assistant | Build rich and natural conversations for smart speakers, displays, and phones. | [Go!](https://developers.google.com/assistant) |
+
+### Data Science
+
+| Name | Description | Link |
+|---|---|---|
 
 ### Testing
 

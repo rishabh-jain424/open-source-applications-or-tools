@@ -100,3 +100,6 @@
 
 
 #### Feel free to add new category/tools that will help in making app.
+
+### CONTRIBUTORS
+To see: [Click here](/CONTRIBUTORS.md)

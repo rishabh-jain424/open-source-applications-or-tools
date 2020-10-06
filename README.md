@@ -1,15 +1,15 @@
 # Open-Source: Applications or Tools
 > ### “In real open source , you have the right to control your own destiny. — Linus Torvalds”
 
-A curated list of awesome resources to help you build the next application.
-
+##### A curated list of awesome resources to help you build the next application.
+###### Feel free to add new category/tools that will help in making app.
 
 ### Integrated Development Environments (IDEs)
 
 | Name | Description | Link |
 |---|---|---|
-| Eclipse | Eclipse offers IDEs for Java, Java EE, C/C++ and PHP. | [Go!]:https://www.eclipse.org/ 'Eclipse'|
-| NetBeans | Useful for creating desktop, mobile or Web apps, NetBeans supports Java, HTML5, PHP, C/C++ and several other programming languages. | [Go!]:http://netbeans.org/ "NetBeans"|
+| Eclipse | Eclipse offers IDEs for Java, Java EE, C/C++ and PHP. | [Go!](https://www.eclipse.org/) |
+| NetBeans | Useful for creating desktop, mobile or Web apps, NetBeans supports Java, HTML5, PHP, C/C++ and several other programming languages. | [Go!](http://netbeans.org/) |
 | Visual Studio Code | Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. | [Go!](https://code.visualstudio.com/) |
 
 ### JavaScript Frameworks and Libraries
@@ -23,7 +23,7 @@ A curated list of awesome resources to help you build the next application.
 | Name | Description | Link |
 |---|---|---|
 | CodePen | CodePen  can let you navigate different files and create different pages within a single file, which is a benefit for many web developers. | [Go!](https://codepen.io/) |
-| Brackets | It’s easy to have a complete preview of the editor, which assists in making the Web app development process smarter. | For more help: [Go!] (http://brackets.io/) |
+| Brackets | It’s easy to have a complete preview of the editor, which assists in making the Web app development process smarter. | For more help: [Go!](http://brackets.io/) |
 
 ### Data Science
 
@@ -99,4 +99,4 @@ A curated list of awesome resources to help you build the next application.
 |---|---|---|
 
 
-#### Feel free to add new category that will help in making app.
+#### Feel free to add new category/tools that will help in making app.

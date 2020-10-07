@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "yash3001",
+      "name": "Yash Chauhan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43678393?v=4",
+      "profile": "https://github.com/yash3001",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "open-source-applications-or-tools",
+  "projectOwner": "rishabh-jain424",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

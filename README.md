@@ -1,4 +1,7 @@
 # Open-Source: Applications or Tools
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 > ### “In real open source , you have the right to control your own destiny. — Linus Torvalds”
 
 #### A curated list of awesome resources to help you build the next application.
@@ -106,3 +109,22 @@
 
 ### CONTRIBUTORS
 To see: [Click here](/CONTRIBUTORS.md)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/yash3001"><img src="https://avatars0.githubusercontent.com/u/43678393?v=4" width="100px;" alt=""/><br /><sub><b>Yash Chauhan</b></sub></a><br /><a href="https://github.com/rishabh-jain424/open-source-applications-or-tools/commits?author=yash3001" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

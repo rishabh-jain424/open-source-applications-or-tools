@@ -2,10 +2,12 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-> ### “In real open source , you have the right to control your own destiny. — Linus Torvalds”
+> ### “In real open source , you have the right to control your own destiny." — Linus Torvalds
 
-#### A curated list of awesome resources to help you build the next application.
-##### Feel free to add new category/tools that will help in making app.
+### A curated list of awesome resources to help you build the next application.
+#### Feel free to add new category/tools that will help in making app.
+
+## Add new category/tools in <ins>index.md</ins> file. Below one is for reference only but you are free to update README file.
 
 ### Integrated Development Environments (IDEs)
 
@@ -59,6 +61,7 @@
 
 | Name | Description | Link |
 |---|---|---|
+| Coming soon |     |     |
 
 ### Testing
 
@@ -72,6 +75,7 @@
 
 | Name | Description | Link |
 |---|---|---|
+| Coming soon |     |     |
 
 ### Designing
 
@@ -98,11 +102,13 @@
 
 | Name | Description | Link |
 |---|---|---|
+| Coming soon |     |     |
 
 ### Accessibilty
 
 | Name | Description | Link |
 |---|---|---|
+| Coming soon |     |     |
 
 
 #### Feel free to add new category/tools that will help in making app.

@@ -4,8 +4,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 > ### “In real open source , you have the right to control your own destiny.” — Linus Torvalds
 
-#### A curated list of awesome resources to help you build the next application.
-##### Feel free to add new category/tools that will help in making app.
+### A curated list of awesome resources to help you build the next application.
+#### Feel free to add new category/tools that will help in making app.
 
 ### Integrated Development Environments (IDEs)
 

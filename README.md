@@ -17,6 +17,8 @@
 | Name | Description | Link |
 |---|---|---|
 | AngularJS | This framework aims to make it easier to add dynamic content to HTML Web pages. | [Go!](https://angularjs.org/) |
+| NodeJS | Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser. | [Go!](https://nodejs.org/)
+| ReactJS | React is an open-source JavaScript library for building user interfaces or UI components. | [Go!](https://reactjs.org/)
 
 ### Editor for Coding
 
@@ -24,6 +26,7 @@
 |---|---|---|
 | CodePen | CodePen  can let you navigate different files and create different pages within a single file, which is a benefit for many web developers. | [Go!](https://codepen.io/) |
 | Brackets | It’s easy to have a complete preview of the editor, which assists in making the Web app development process smarter. | For more help: [Go!](http://brackets.io/) |
+| Neovim | Neovim is a lightweight, hyperextensible Vim-based command line text editor. | [Go!](https://neovim.io/)
 
 ### AI/ML Tools
 

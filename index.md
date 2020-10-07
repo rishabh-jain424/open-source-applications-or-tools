@@ -22,6 +22,7 @@
 | AngularJS | This framework aims to make it easier to add dynamic content to HTML Web pages. | [Go!](https://angularjs.org/) |
 | NodeJS | Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser. | [Go!](https://nodejs.org/)
 | ReactJS | React is an open-source JavaScript library for building user interfaces or UI components. | [Go!](https://reactjs.org/)
+|Svelte | Svelte is an open-source frontend component framework, similar with another frameworks but with some differences running at *build time*. | [Go!](https://svelte.dev/) 
 
 ### Editor for Coding
 
@@ -42,6 +43,7 @@
 | Name | Description | Link |
 |---|---|---|
 | Cordova | Cordova allows developers to create native cross-platform applications using Web development tools like HTML, CSS and JavaScript. | [Go!](https://cordova.apache.org/) |
+| React Native | React Native is an open-source frontend library for building user interfaces on mobile environment, using React. | [Go!](https://reactnative.dev/)
 
 ### Bots
 
@@ -68,6 +70,9 @@
 | SonarQube | This code quality management platform covers architecture and design, duplications, unit tests, complexity, potential bugs, coding rules and comments. | [Go!](https://www.sonarqube.org/) |
 | Selenium | A popular open-source test automation tool | [Go!](https://www.selenium.dev/) |
 | Katalon Studio | Katalon is designed to create and reuse automated test scripts for UI without coding. | [Go!](https://www.katalon.com/) |
+| Jest | Jest is a open source JavaScript testing framework focused on simplicity, working togheter with another frontend development frameworks and libraries. | [Go!](https://jestjs.io/)
+|Mocha | Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser. | [Go!](https://mochajs.org/)
+
 
 ### UI/UX
 

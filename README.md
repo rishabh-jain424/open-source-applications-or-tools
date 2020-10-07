@@ -107,9 +107,6 @@
 
 #### Feel free to add new category/tools that will help in making app.
 
-### CONTRIBUTORS
-To see: [Click here](/CONTRIBUTORS.md)
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

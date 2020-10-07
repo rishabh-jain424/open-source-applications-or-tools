@@ -6,16 +6,7 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
-    {
-      "login": "yash3001",
-      "name": "Yash Chauhan",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/43678393?v=4",
-      "profile": "https://github.com/yash3001",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
+     {
       "login": "rishabh-jain424",
       "name": "Rishabh Jain",
       "avatar_url": "https://avatars1.githubusercontent.com/u/22799978?v=4",
@@ -24,6 +15,15 @@
         "doc",
         "design",
         "maintenance"
+      ]
+    },
+    {
+      "login": "yash3001",
+      "name": "Yash Chauhan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43678393?v=4",
+      "profile": "https://github.com/yash3001",
+      "contributions": [
+        "doc"
       ]
     }
   ],

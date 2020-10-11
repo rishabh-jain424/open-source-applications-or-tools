@@ -14,6 +14,7 @@
 | Eclipse | Eclipse offers IDEs for Java, Java EE, C/C++ and PHP. | [Go!](https://www.eclipse.org/) |
 | NetBeans | Useful for creating desktop, mobile or Web apps, NetBeans supports Java, HTML5, PHP, C/C++ and several other programming languages. | [Go!](http://netbeans.org/) |
 | Visual Studio Code | Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. | [Go!](https://code.visualstudio.com/) |
+| IntelliJ IDEA | IntelliJ IDEA is an integrated development environment (IDE) written in Java for developing computer software | [Go!](https://www.jetbrains.com/idea/) |
 
 ### JavaScript Frameworks and Libraries
 
@@ -30,7 +31,8 @@
 |---|---|---|
 | CodePen | CodePen  can let you navigate different files and create different pages within a single file, which is a benefit for many web developers. | [Go!](https://codepen.io/) |
 | Brackets | It’s easy to have a complete preview of the editor, which assists in making the Web app development process smarter. | For more help: [Go!](http://brackets.io/) |
-| Neovim | Neovim is a lightweight, hyperextensible Vim-based command line text editor. | [Go!](https://neovim.io/)
+| Neovim | Neovim is a lightweight, hyperextensible Vim-based command line text editor. | [Go!](https://neovim.io/) |
+| Atom | Atom is a desktop application built with HTML, JavaScript, CSS, and Node.js integration. | [Go!](https://atom.io/) |
 
 ### AI/ML Tools
 

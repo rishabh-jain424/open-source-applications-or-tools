@@ -1,6 +1,6 @@
 # Open-Source: Applications or Tools
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 > ### “In real open source , you have the right to control your own destiny.” — Linus Torvalds
 
@@ -130,6 +130,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://in.linkedin.com/in/rishabh-jain424"><img src="https://avatars1.githubusercontent.com/u/22799978?v=4" width="100px;" alt=""/><br /><sub><b>Rishabh Jain</b></sub></a><br /><a href="https://github.com/rishabh-jain424/open-source-applications-or-tools/commits?author=rishabh-jain424" title="Documentation">📖</a> <a href="#design-rishabh-jain424" title="Design">🎨</a> <a href="#maintenance-rishabh-jain424" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/yash3001"><img src="https://avatars0.githubusercontent.com/u/43678393?v=4" width="100px;" alt=""/><br /><sub><b>Yash Chauhan</b></sub></a><br /><a href="https://github.com/rishabh-jain424/open-source-applications-or-tools/commits?author=yash3001" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/buirkan"><img src="https://avatars2.githubusercontent.com/u/22250499?v=4" width="100px;" alt=""/><br /><sub><b>Felipe Silva</b></sub></a><br /><a href="https://github.com/rishabh-jain424/open-source-applications-or-tools/commits?author=buirkan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/VIJAYSVE"><img src="https://avatars3.githubusercontent.com/u/13599639?v=4" width="100px;" alt=""/><br /><sub><b>Vijay Verma</b></sub></a><br /><a href="https://github.com/rishabh-jain424/open-source-applications-or-tools/commits?author=VIJAYSVE" title="Documentation">📖</a></td>
   </tr>
 </table>
 

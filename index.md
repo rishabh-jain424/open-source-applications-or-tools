@@ -33,6 +33,7 @@
 | Brackets | It’s easy to have a complete preview of the editor, which assists in making the Web app development process smarter. | For more help: [Go!](http://brackets.io/) |
 | Neovim | Neovim is a lightweight, hyperextensible Vim-based command line text editor. | [Go!](https://neovim.io/) |
 | Atom | Atom is a desktop application built with HTML, JavaScript, CSS, and Node.js integration. | [Go!](https://atom.io/) |
+| Komodo Edit | Komodo Edit is a free and open source text editor with support for programming languages including Python, Perl, PHP, Ruby, Tcl, SQL, Smarty, CSS, HTML, and XML | [Go!](https://github.com/Komodo/KomodoEdit)
 
 ### AI/ML Tools
 
@@ -58,6 +59,7 @@
 | Name | Description | Link |
 |---|---|---|
 | Wit.ai | Developed by Facebook to build Natural Language Experiences. | [Go!](https://wit.ai/) |
+| Botpress | Botpress is an open-source all-in-one bot creation platform that provides all the tools needed to build, debug and deploy AI-based conversational assistants. | [Go!](https://botpress.com/)
 
 ### Voice App
 
@@ -65,6 +67,7 @@
 |---|---|---|
 | Google Assistant | Build rich and natural conversations for smart speakers, displays, and phones. | [Go!](https://developers.google.com/assistant) |
 | Bixby | Bixby is a virtual assistant developed by Samsung Electronics. Manage your smart devices with just your voice. | [Go!](https://www.samsung.com/us/explore/bixby/) |
+| Mycroft | Mycroft is an open source privacy-focused voice assistant. It can be installed on Linux and Raspberry Pi. It doesn’t collect and monetize user data. | [Go!](https://mycroft.ai/)
 
 ### Data Science
 

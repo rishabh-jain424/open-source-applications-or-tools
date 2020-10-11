@@ -39,6 +39,7 @@
 | Name | Description | Link |
 |---|---|---|
 | Detectron2 | Detectron2 is FAIR's next-generation platform for object detection and segmentation. | [Go!](https://github.com/facebookresearch/detectron2) |
+| TensorFlow | TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. | [Go!](https://www.tensorflow.org/) |
 
 ### Mobile Development
 
@@ -58,12 +59,13 @@
 | Name | Description | Link |
 |---|---|---|
 | Google Assistant | Build rich and natural conversations for smart speakers, displays, and phones. | [Go!](https://developers.google.com/assistant) |
+| Bixby | Bixby is a virtual assistant developed by Samsung Electronics. Manage your smart devices with just your voice. | [Go!](https://www.samsung.com/us/explore/bixby/) |
 
 ### Data Science
 
 | Name | Description | Link |
 |---|---|---|
-| Coming soon |     |     |
+| Anaconda | Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing and data science. | [Go!](https://www.anaconda.com/) |
 
 ### Testing
 

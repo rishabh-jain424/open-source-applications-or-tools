@@ -17,6 +17,7 @@
 | Name | Description | Link |
 |---|---|---|
 | AngularJS | This framework aims to make it easier to add dynamic content to HTML Web pages. | [Go!](https://angularjs.org/) |
+| NativeScript | NativeScript is an open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript | [Go!](https://nativescript.org/) |
 
 ### Editor for Coding
 
@@ -36,6 +37,12 @@
 | Name | Description | Link |
 |---|---|---|
 | Cordova | Cordova allows developers to create native cross-platform applications using Web development tools like HTML, CSS and JavaScript. | [Go!](https://cordova.apache.org/) |
+| Buildfire | BuildFire provides a powerful and easy to use mobile app builder platform | [Go!](https://github.com/buildfire) |
+| Ionic Framework | Ionic Framework is an open source mobile UI toolkit for building high quality, cross-platform native and web app experiences.| [Go!](https://ionicframework.com/) |
+
+| Jasonette |  Jasonette lets users build native apps by writing a simple JSON | [Go!](https://jasonette.com/) |
+| Flutter | Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. |
+| Flutter | Flutter is Google's SDK for building applications for mobile, web, and desktop from a single codebase | [Go!](https://flutter.dev/)
 
 ### Bots
 

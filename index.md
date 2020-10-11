@@ -2,12 +2,10 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-> ### “In real open source , you have the right to control your own destiny." — Linus Torvalds
+> ### “In real open source , you have the right to control your own destiny.” — Linus Torvalds
 
 ### A curated list of awesome resources to help you build the next application.
 #### Feel free to add new category/tools that will help in making app.
-
-## Add new category/tools in <ins>index.md</ins> file. Below one is for reference only but you are free to update README file.
 
 ### Integrated Development Environments (IDEs)
 
@@ -41,13 +39,19 @@
 | Name | Description | Link |
 |---|---|---|
 | Detectron2 | Detectron2 is FAIR's next-generation platform for object detection and segmentation. | [Go!](https://github.com/facebookresearch/detectron2) |
+| TensorFlow | TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. | [Go!](https://www.tensorflow.org/) |
 
 ### Mobile Development
 
 | Name | Description | Link |
 |---|---|---|
 | Cordova | Cordova allows developers to create native cross-platform applications using Web development tools like HTML, CSS and JavaScript. | [Go!](https://cordova.apache.org/) |
-| React Native | React Native is an open-source frontend library for building user interfaces on mobile environment, using React. | [Go!](https://reactnative.dev/)
+| React Native | React Native is an open-source frontend library for building user interfaces on mobile environment, using React. | [Go!](https://reactnative.dev/) |
+| NativeScript | NativeScript is an open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript | [Go!](https://nativescript.org/) |
+| Buildfire | BuildFire provides a powerful and easy to use mobile app builder platform | [Go!](https://github.com/buildfire) |
+| Ionic Framework | Ionic Framework is an open source mobile UI toolkit for building high quality, cross-platform native and web app experiences.| [Go!](https://ionicframework.com/) |
+| Jasonette |  Jasonette lets users build native apps by writing a simple JSON | [Go!](https://jasonette.com/) |
+| Flutter | Flutter is Google's SDK for building applications for mobile, web, and desktop from a single codebase | [Go!](https://flutter.dev/) |
 
 ### Bots
 
@@ -60,12 +64,13 @@
 | Name | Description | Link |
 |---|---|---|
 | Google Assistant | Build rich and natural conversations for smart speakers, displays, and phones. | [Go!](https://developers.google.com/assistant) |
+| Bixby | Bixby is a virtual assistant developed by Samsung Electronics. Manage your smart devices with just your voice. | [Go!](https://www.samsung.com/us/explore/bixby/) |
 
 ### Data Science
 
 | Name | Description | Link |
 |---|---|---|
-| Coming soon |     |     |
+| Anaconda | Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing and data science. | [Go!](https://www.anaconda.com/) |
 
 ### Testing
 
@@ -76,6 +81,7 @@
 | Katalon Studio | Katalon is designed to create and reuse automated test scripts for UI without coding. | [Go!](https://www.katalon.com/) |
 | Jest | Jest is a open source JavaScript testing framework focused on simplicity, working togheter with another frontend development frameworks and libraries. | [Go!](https://jestjs.io/)
 |Mocha | Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser. | [Go!](https://mochajs.org/)
+
 
 ### UI/UX
 

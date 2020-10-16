@@ -7,7 +7,7 @@
 ### A curated list of awesome resources to help you build the next application.
 #### Feel free to add new category/tools that will help in making app.
 
-## Add new category/tools in <ins>index.md</ins> file. Below one is for reference only but you are free to update README file.
+## Add new open-source category/tools in <ins>index.md</ins> file. Below one is for reference only but you are free to update README file.
 
 ### Integrated Development Environments (IDEs)
 
